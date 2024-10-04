@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "5435743607",
+    "project_id": "greetings-6df72",
+    "storage_bucket": "greetings-6df72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5435743607:android:40872bc6250dd8e8415572",
+        "android_client_info": {
+          "package_name": "com.greetings"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb6_bYyTB8Wh3PpIKmwlOwqxfhi6HlBEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
